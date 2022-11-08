@@ -1,0 +1,7 @@
+Diego Sú Gómez - A01620476
+  substringMasLargo()
+Santiago Ortiz Pérez - A01620647
+  leerArchivo()
+  maxPalindromo()
+Estefanía Pérez Yeo - A01639270
+  analizarArchivos()
